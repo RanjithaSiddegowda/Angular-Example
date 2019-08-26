@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# MyDreamApp
+# Angular-Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
@@ -26,6 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# Angular-Example
->>>>>>> 6a8ea905431fdd8b0847c786e3f307dc54915ac8
